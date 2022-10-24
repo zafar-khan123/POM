@@ -24,10 +24,6 @@
       <version>${project2Version}</version> 
     </dependency> 
   </dependencies> 
-</dependencyManagement> 
-  
-<modules> 
-  <module>parent</module> 
-</modules> 
+</dependencyManagement>  
   
 </project>
