@@ -18,7 +18,7 @@
         <groupId>test</groupId>
         <artifactId>b</artifactId>
         <version>1.1</version>
-        <scope>compile</compile>
+        <scope>compile</scope>
       </dependency>
      </dependencies>
     
